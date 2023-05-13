@@ -1,13 +1,5 @@
 # 💫 About Me:
-Hi, my name is Oleg, and I am an experienced software developer with over 2 years of experience working on various projects. I am committed to continuously improving my skills and staying up-to-date with the latest developments in the industry.
-
-I have a strong background in backend development, utilizing frameworks like Django, DRF, Flask, and FastAPI to build efficient and scalable applications. Additionally, I have experience working with asynchronous task queues like Celery, and utilizing OAuth for secure API authentication.
-
-I am proficient in working with databases, including PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB, and have experience designing and managing databases using ORMs such as SQLAlchemy and Pydantic. Additionally, I have experience utilizing migration tools like Alembic to manage database schema changes.
-
-Furthermore, I am experienced in designing and implementing microservice architectures, utilizing message brokers such as Amazon SQS to enable efficient communication between microservices.
-
-I have experience working with Git, Gitlab, Github, and BitBucket for version control.I am a highly motivated software engineer with a passion for designing and engineering high-quality, scalable, and reliable systems. I have a wealth of experience in both microservices and monolith architectures, and have been working in the industry for several years, honing my skills and building a track record of delivering successful projects.
+Python developer with more than a year of experience in commercial software development. His expertise lies in both microservices and monolithic architectures, along with containerization using Docker. This allows him to build the backend of applications with external services and API integration, design database structures, and create background jobs. Besides Python, is also proficient in front-end development using JavaScript, HTML and CSS, which enables him to create and enhance UI. Continuously expands his skill set and stays up-to-date with the latest technologies to improve work efficiency. Possesses excellent communication and interpersonal skills, which enables him to collaborate effectively with cross-functional teams.
 
 
 ## 🌐 Socials:
