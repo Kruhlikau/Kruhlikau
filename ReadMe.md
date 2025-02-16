@@ -1,5 +1,6 @@
 # 💫 About Me:
 Python Developer | Proficient in Backend Development
+
 Experienced Python developer with commercial software development expertise. Skilled in building both microservices and monolithic architectures, with a strong focus on API integration, external services, and database design. Proficient in containerization using Docker to streamline deployment processes.
 
 Beyond backend development, I bring front-end proficiency in JavaScript, HTML, and CSS, enabling seamless UI creation and enhancement. Passionate about staying at the forefront of technology to continuously improve efficiency and deliver high-quality solutions.
